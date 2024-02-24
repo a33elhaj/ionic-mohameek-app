@@ -1,0 +1,7 @@
+{
+  "name": "mohameek-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
